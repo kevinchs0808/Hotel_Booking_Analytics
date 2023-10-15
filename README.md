@@ -1,4 +1,4 @@
-# Hotel_Booking_Analytics
+# Hotel Booking Analytics
 
 ![Screenshot](https://www.hotellinksolutions.com/images/blog/avt.jpg)
 
