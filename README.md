@@ -1,6 +1,6 @@
 # Hotel_Booking_Analytics
 
-![alt text]([http://url/to/img.png](https://www.hotellinksolutions.com/images/blog/avt.jpg))
+![Screenshot]([http://url/to/img.png](https://www.hotellinksolutions.com/images/blog/avt.jpg))
 
 DSA2101 Project Group M
 
