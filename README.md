@@ -7,8 +7,8 @@ DSA2101 Project Group M
 Use case: To help hotel managers to make the best business decision based on hotel demand trends.
 
 Authors:
-- Josiah Lee En
-- Lee Jin
-- Chermane Goh
-- Kevin Christian
-- Teo Ming Jun
+- Josiah Lee En (National University of Singapore)
+- Lee Jin (National University of Singapore)
+- Chermane Goh (National University of Singapore)
+- Kevin Christian (National University of Singapore)
+- Teo Ming Jun (National University of Singapore)
